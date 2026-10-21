@@ -22,7 +22,7 @@ export default function SortDropdown({
           onChange={(event) =>
             onChange(event.target.value as SortOption)
           }
-          className="appearance-none rounded-md border border-[#343834] bg-[#191b19] py-2 pl-3 pr-9 text-sm font-semibold text-white outline-none focus:border-[#ccff00]"
+          className="appearance-none rounded-md border border-[#343834] bg-[#191b19] py-2 pl-2 pr-9 text-sm font-semibold text-white outline-none focus:border-[#ccff00]"
         >
           <option value="Duration">Duration</option>
           <option value="Calories">Calories</option>
