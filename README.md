@@ -17,7 +17,7 @@ FitLog is a modern, responsive workout library application designed to help user
 
 ## ✨ Key Features
 
-1. **Workout Library** — Browse workout exercises and explore workout details.
+1. **Workout Library** — Browse workout exercises and explore workout detail.
 2. **Workout Details** — View exercise information, including target muscles, equipment, and instructions.
 3. **My Plan** — Add exercises to a personal workout plan and manage selected workouts.
 4. **Workout Tracking** — Mark workouts as completed, save exercises, and remove them from your plan.
