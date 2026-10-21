@@ -57,7 +57,7 @@ export default function WorkoutCard({
           {workout.equipment}
         </p>
 
-        <div className="mt-5 grid grid-cols-3 gap-2 border-t border-[#343834] pt-4">
+        <div className="mt-5 grid grid-cols-3 gap-3 border-t border-[#343834] pt-4">
           <p className="flex items-center gap-1 text-[11px] text-[#c7ccc5]">
             <Clock3 size={13} className="text-[#ccff00]" />
             {workout.duration} min
