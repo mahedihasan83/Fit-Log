@@ -96,7 +96,7 @@ export default function WorkoutDetails({
                 <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-[#ccff00] text-sm font-extrabold text-black">
                   {String(index + 1).padStart(2, "0")}
                 </span>
-                <p className="pt-1 text-sm leading-6 text-[#c7ccc5]">
+                <p className="pt-2 text-sm leading-6 text-[#c7ccc5]">
                   {instruction}
                 </p>
               </li>
