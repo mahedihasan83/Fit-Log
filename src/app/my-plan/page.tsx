@@ -74,7 +74,7 @@ export default function MyPlanPage() {
         </div>
       </div>
 
-      <div className="mt-10 flex flex-wrap items-center gap-3 border-b border-[#343834]">
+      <div className="mt-11 flex flex-wrap items-center gap-3 border-b border-[#343834]">
         <button
           onClick={() => setTab("today")}
           className={`border-b-2 px-4 py-3 text-sm font-bold ${
