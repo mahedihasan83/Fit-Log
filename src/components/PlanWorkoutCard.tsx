@@ -40,7 +40,7 @@ export default function PlanWorkoutCard({
           {workout.name}
         </h3>
 
-        <p className="mt-1 text-xs text-[#a0a69f]">
+        <p className="mt-2 text-xs text-[#a0a69f]">
           {workout.equipment}
         </p>
 
