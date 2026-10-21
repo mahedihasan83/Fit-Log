@@ -12,7 +12,7 @@ export default function Hero() {
 
           <h1 className="display-font mt-4 max-w-2xl text-5xl font-extrabold uppercase leading-[0.98] sm:text-6xl lg:text-7xl">
             TRAIN WITH INTENT.
-            <span className="mt-2 block text-white">
+            <span className="mt-3 block text-white">
               LOG EVERY SET.
             </span>
           </h1>
